@@ -1,0 +1,816 @@
+{
+  "businesses": [
+    {
+      "id": "YHGCV5G1-5xkx0iIUI2amQ",
+      "alias": "starbucks-atlanta-115",
+      "name": "Starbucks",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0hAQZjliF0LvLQGn4zj-xg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/starbucks-atlanta-115?adjust_creative=JaUQXhTheWUgWlegHzTEmQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JaUQXhTheWUgWlegHzTEmQ",
+      "review_count": 41,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": 33.918174,
+        "longitude": -84.350779
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "6001 Peachtree Dunwoody Rd",
+        "address2": "",
+        "address3": null,
+        "city": "Atlanta",
+        "zip_code": "30328",
+        "country": "US",
+        "state": "GA",
+        "display_address": [
+          "6001 Peachtree Dunwoody Rd",
+          "Atlanta, GA 30328"
+        ]
+      },
+      "phone": "+14702791184",
+      "display_phone": "(470) 279-1184",
+      "distance": 1181.2145296926433
+    },
+    {
+      "id": "wmbvuK6WT4ByC_zsvXmd2Q",
+      "alias": "starbucks-sandy-springs",
+      "name": "Starbucks",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WVQdUwYihH7g5TQWGtYDvg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/starbucks-sandy-springs?adjust_creative=JaUQXhTheWUgWlegHzTEmQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JaUQXhTheWUgWlegHzTEmQ",
+      "review_count": 56,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 2.5,
+      "coordinates": {
+        "latitude": 33.908622,
+        "longitude": -84.379091
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "5660 Roswell Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Sandy Springs",
+        "zip_code": "30342",
+        "country": "US",
+        "state": "GA",
+        "display_address": [
+          "5660 Roswell Rd",
+          "Sandy Springs, GA 30342"
+        ]
+      },
+      "phone": "+14042500328",
+      "display_phone": "(404) 250-0328",
+      "distance": 1712.5747021666566
+    },
+    {
+      "id": "sPfCIlAcTgKM36rIc_gwwA",
+      "alias": "starbucks-sandy-springs-6",
+      "name": "Starbucks",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/s8QSo5jmfTW_iIVq5oqGRw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/starbucks-sandy-springs-6?adjust_creative=JaUQXhTheWUgWlegHzTEmQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JaUQXhTheWUgWlegHzTEmQ",
+      "review_count": 29,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 2.5,
+      "coordinates": {
+        "latitude": 33.914986,
+        "longitude": -84.379602
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "location": {
+        "address1": "5840 Roswell Rd",
+        "address2": "C",
+        "address3": null,
+        "city": "Sandy Springs",
+        "zip_code": "30328",
+        "country": "US",
+        "state": "GA",
+        "display_address": [
+          "5840 Roswell Rd",
+          "C",
+          "Sandy Springs, GA 30328"
+        ]
+      },
+      "phone": "+14043038512",
+      "display_phone": "(404) 303-8512",
+      "distance": 1764.7446399664918
+    },
+    {
+      "id": "xHEsj9JYsE-_no-SVN8waA",
+      "alias": "starbucks-sandy-springs-7",
+      "name": "Starbucks",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/f04dkPogjGAjaDknv453Cg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/starbucks-sandy-springs-7?adjust_creative=JaUQXhTheWUgWlegHzTEmQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JaUQXhTheWUgWlegHzTEmQ",
+      "review_count": 2,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": 33.90573857,
+        "longitude": -84.38057116
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "location": {
+        "address1": "5570 Roswell Rd",
+        "address2": null,
+        "address3": "Target",
+        "city": "Sandy Springs",
+        "zip_code": "30342",
+        "country": "US",
+        "state": "GA",
+        "display_address": [
+          "5570 Roswell Rd",
+          "Target",
+          "Sandy Springs, GA 30342"
+        ]
+      },
+      "phone": "+16787048120",
+      "display_phone": "(678) 704-8120",
+      "distance": 1931.426207776694
+    },
+    {
+      "id": "10q8sa4UgNSeCPp0pJU4RQ",
+      "alias": "starbucks-atlanta-18",
+      "name": "Starbucks",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mrwKoRGVri_NFr_Bxb9q3Q/o.jpg",
+      "is_closed": true,
+      "url": "https://www.yelp.com/biz/starbucks-atlanta-18?adjust_creative=JaUQXhTheWUgWlegHzTEmQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JaUQXhTheWUgWlegHzTEmQ",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": 33.920291,
+        "longitude": -84.381367
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "227 Sandy Springs Pl",
+        "address2": "",
+        "address3": "Kroger",
+        "city": "Atlanta",
+        "zip_code": "30328",
+        "country": "US",
+        "state": "GA",
+        "display_address": [
+          "227 Sandy Springs Pl",
+          "Kroger",
+          "Atlanta, GA 30328"
+        ]
+      },
+      "phone": "+14042563434",
+      "display_phone": "(404) 256-3434",
+      "distance": 2117.9644275258047
+    },
+    {
+      "id": "PgDQfqeG5-39X4WyIfSzXw",
+      "alias": "starbucks-atlanta-86",
+      "name": "Starbucks",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/l_I_5D9logAvjzHXUeqYWg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/starbucks-atlanta-86?adjust_creative=JaUQXhTheWUgWlegHzTEmQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JaUQXhTheWUgWlegHzTEmQ",
+      "review_count": 32,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 2.5,
+      "coordinates": {
+        "latitude": 33.923777,
+        "longitude": -84.340853
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "4400 Ashford Dunwoody Rd",
+        "address2": "Ste 1360",
+        "address3": null,
+        "city": "Atlanta",
+        "zip_code": "30346",
+        "country": "US",
+        "state": "GA",
+        "display_address": [
+          "4400 Ashford Dunwoody Rd",
+          "Ste 1360",
+          "Atlanta, GA 30346"
+        ]
+      },
+      "phone": "+17705228011",
+      "display_phone": "(770) 522-8011",
+      "distance": 2287.829175078766
+    },
+    {
+      "id": "9hfAQDYCqFP_BXAF5E4PYA",
+      "alias": "starbucks-dunwoody-3",
+      "name": "Starbucks",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Rzjqjuew9CGHrD72brovCA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/starbucks-dunwoody-3?adjust_creative=JaUQXhTheWUgWlegHzTEmQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JaUQXhTheWUgWlegHzTEmQ",
+      "review_count": 144,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": 33.921823,
+        "longitude": -84.338249
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "4441 Ashford Dunwoody Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Dunwoody",
+        "zip_code": "30346",
+        "country": "US",
+        "state": "GA",
+        "display_address": [
+          "4441 Ashford Dunwoody Rd",
+          "Dunwoody, GA 30346"
+        ]
+      },
+      "phone": "+17706980214",
+      "display_phone": "(770) 698-0214",
+      "distance": 2375.5317395418897
+    },
+    {
+      "id": "5rf0m1ufcxvvHFUUtdr0ag",
+      "alias": "starbucks-atlanta-65",
+      "name": "Starbucks",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8cxaikv3bCBZoAbbr48iOg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/starbucks-atlanta-65?adjust_creative=JaUQXhTheWUgWlegHzTEmQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JaUQXhTheWUgWlegHzTEmQ",
+      "review_count": 56,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 33.932105,
+        "longitude": -84.348475
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "1155 Mount Vernon Hwy",
+        "address2": "Ste 1050",
+        "address3": "",
+        "city": "Atlanta",
+        "zip_code": "30338",
+        "country": "US",
+        "state": "GA",
+        "display_address": [
+          "1155 Mount Vernon Hwy",
+          "Ste 1050",
+          "Atlanta, GA 30338"
+        ]
+      },
+      "phone": "+17703942116",
+      "display_phone": "(770) 394-2116",
+      "distance": 2545.0995975668357
+    },
+    {
+      "id": "4VAa2GaBwFDUjlo5CDE1CA",
+      "alias": "starbucks-atlanta-91",
+      "name": "Starbucks",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/45x01oO1u3MYo9XkH3-wwA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/starbucks-atlanta-91?adjust_creative=JaUQXhTheWUgWlegHzTEmQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JaUQXhTheWUgWlegHzTEmQ",
+      "review_count": 7,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 2.5,
+      "coordinates": {
+        "latitude": 33.9304109080738,
+        "longitude": -84.34155
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "125 Perimeter Ctr Pl W",
+        "address2": "",
+        "address3": "Target",
+        "city": "Atlanta",
+        "zip_code": "30346",
+        "country": "US",
+        "state": "GA",
+        "display_address": [
+          "125 Perimeter Ctr Pl W",
+          "Target",
+          "Atlanta, GA 30346"
+        ]
+      },
+      "phone": "+16782590888",
+      "display_phone": "(678) 259-0888",
+      "distance": 2744.150779601684
+    },
+    {
+      "id": "cg4AOLesJGKCHVV-k2_Tmg",
+      "alias": "starbucks-atlanta-84",
+      "name": "Starbucks",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6UOotLEYSL06ClIkxqHakw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/starbucks-atlanta-84?adjust_creative=JaUQXhTheWUgWlegHzTEmQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JaUQXhTheWUgWlegHzTEmQ",
+      "review_count": 38,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": 33.936663,
+        "longitude": -84.377726
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "6681 K Roswell Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Atlanta",
+        "zip_code": "30328",
+        "country": "US",
+        "state": "GA",
+        "display_address": [
+          "6681 K Roswell Rd",
+          "Atlanta, GA 30328"
+        ]
+      },
+      "phone": "+14044590443",
+      "display_phone": "(404) 459-0443",
+      "distance": 3183.3242051744796
+    },
+    {
+      "id": "KLJ66YOmaDB5Rvy5hxeg4Q",
+      "alias": "starbucks-atlanta-90",
+      "name": "Starbucks",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GzXzc4WZX-2NqDmcoWTU0Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/starbucks-atlanta-90?adjust_creative=JaUQXhTheWUgWlegHzTEmQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JaUQXhTheWUgWlegHzTEmQ",
+      "review_count": 3,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": 33.889834,
+        "longitude": -84.383447
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "4920 Roswell Rd",
+        "address2": "",
+        "address3": "Kroger",
+        "city": "Atlanta",
+        "zip_code": "30342",
+        "country": "US",
+        "state": "GA",
+        "display_address": [
+          "4920 Roswell Rd",
+          "Kroger",
+          "Atlanta, GA 30342"
+        ]
+      },
+      "phone": "+14048433080",
+      "display_phone": "(404) 843-3080",
+      "distance": 3197.753069211738
+    },
+    {
+      "id": "FCXzqbC9fjJWVvhZSlZ-kg",
+      "alias": "starbucks-atlanta-68",
+      "name": "Starbucks",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CNPcbVQ7TeuN7Sfygmwfhg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/starbucks-atlanta-68?adjust_creative=JaUQXhTheWUgWlegHzTEmQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JaUQXhTheWUgWlegHzTEmQ",
+      "review_count": 34,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 2.5,
+      "coordinates": {
+        "latitude": 33.894485,
+        "longitude": -84.329325
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "3520 Ashford Dunwoody Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Atlanta",
+        "zip_code": "30319",
+        "country": "US",
+        "state": "GA",
+        "display_address": [
+          "3520 Ashford Dunwoody Rd",
+          "Atlanta, GA 30319"
+        ]
+      },
+      "phone": "+17704589082",
+      "display_phone": "(770) 458-9082",
+      "distance": 3484.701988553046
+    },
+    {
+      "id": "mK4DrVoKA8_IWp1lY_iRNg",
+      "alias": "starbucks-atlanta-75",
+      "name": "Starbucks",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BH8EOPhE8ViZm8aO7TZiUQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/starbucks-atlanta-75?adjust_creative=JaUQXhTheWUgWlegHzTEmQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JaUQXhTheWUgWlegHzTEmQ",
+      "review_count": 37,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": 33.878605,
+        "longitude": -84.380105
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "4520 Roswell Rd",
+        "address2": null,
+        "address3": "",
+        "city": "Atlanta",
+        "zip_code": "30342",
+        "country": "US",
+        "state": "GA",
+        "display_address": [
+          "4520 Roswell Rd",
+          "Atlanta, GA 30342"
+        ]
+      },
+      "phone": "+14044979121",
+      "display_phone": "(404) 497-9121",
+      "distance": 4081.650732164075
+    },
+    {
+      "id": "e0qfrHdxfQDMXdW3ZFD8DQ",
+      "alias": "starbucks-dunwoody-2",
+      "name": "Starbucks",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QGlG8iR4-sX4S6H7SbVlAg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/starbucks-dunwoody-2?adjust_creative=JaUQXhTheWUgWlegHzTEmQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JaUQXhTheWUgWlegHzTEmQ",
+      "review_count": 74,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 33.921432,
+        "longitude": -84.314746
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "4468 Chamblee Dunwoody Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Dunwoody",
+        "zip_code": "30338",
+        "country": "US",
+        "state": "GA",
+        "display_address": [
+          "4468 Chamblee Dunwoody Rd",
+          "Dunwoody, GA 30338"
+        ]
+      },
+      "phone": "+17704551218",
+      "display_phone": "(770) 455-1218",
+      "distance": 4395.022007259856
+    },
+    {
+      "id": "2WjAijwq-dkT-vLpYbLTHQ",
+      "alias": "starbucks-atlanta-137",
+      "name": "Starbucks",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RYetMVQNvOVpUF5w7hl1Bg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/starbucks-atlanta-137?adjust_creative=JaUQXhTheWUgWlegHzTEmQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JaUQXhTheWUgWlegHzTEmQ",
+      "review_count": 1,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 1.0,
+      "coordinates": {
+        "latitude": 33.876671,
+        "longitude": -84.33369
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "location": {
+        "address1": "4484 Peachtree Rd NE",
+        "address2": null,
+        "address3": "Oglethorpe University",
+        "city": "Atlanta",
+        "zip_code": "30319",
+        "country": "US",
+        "state": "GA",
+        "display_address": [
+          "4484 Peachtree Rd NE",
+          "Oglethorpe University",
+          "Atlanta, GA 30319"
+        ]
+      },
+      "phone": "+14072571896",
+      "display_phone": "(407) 257-1896",
+      "distance": 4631.721274671359
+    },
+    {
+      "id": "CEWFOJXCr5Tk4E5MbS5rYg",
+      "alias": "starbucks-dunwoody-5",
+      "name": "Starbucks",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FzLdinuOFUAF6ZTz_K7Cpw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/starbucks-dunwoody-5?adjust_creative=JaUQXhTheWUgWlegHzTEmQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JaUQXhTheWUgWlegHzTEmQ",
+      "review_count": 60,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 2.5,
+      "coordinates": {
+        "latitude": 33.949342,
+        "longitude": -84.335786
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "5561 Chamblee-Dunwoody Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Dunwoody",
+        "zip_code": "30338",
+        "country": "US",
+        "state": "GA",
+        "display_address": [
+          "5561 Chamblee-Dunwoody Rd",
+          "Dunwoody, GA 30338"
+        ]
+      },
+      "phone": "+17706049960",
+      "display_phone": "(770) 604-9960",
+      "distance": 4787.035860728771
+    },
+    {
+      "id": "e_BYAJ0fihHN0aOKvBjvRQ",
+      "alias": "starbucks-chamblee",
+      "name": "Starbucks",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VsOFyfmRygR5-itAyLEoWw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/starbucks-chamblee?adjust_creative=JaUQXhTheWUgWlegHzTEmQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JaUQXhTheWUgWlegHzTEmQ",
+      "review_count": 53,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 2.5,
+      "coordinates": {
+        "latitude": 33.883928,
+        "longitude": -84.316142
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "5001 Peachtree Blvd",
+        "address2": "",
+        "address3": null,
+        "city": "Chamblee",
+        "zip_code": "30341",
+        "country": "US",
+        "state": "GA",
+        "display_address": [
+          "5001 Peachtree Blvd",
+          "Chamblee, GA 30341"
+        ]
+      },
+      "phone": "+14703818941",
+      "display_phone": "(470) 381-8941",
+      "distance": 5155.638140140536
+    },
+    {
+      "id": "xHR3CCLtrDMaGzWp9B0luw",
+      "alias": "starbucks-atlanta-94",
+      "name": "Starbucks",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kY4WVkQCIgneqVKVf-2pBA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/starbucks-atlanta-94?adjust_creative=JaUQXhTheWUgWlegHzTEmQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JaUQXhTheWUgWlegHzTEmQ",
+      "review_count": 77,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 2.5,
+      "coordinates": {
+        "latitude": 33.85718,
+        "longitude": -84.343735
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "3901 Peachtree Rd NE",
+        "address2": "",
+        "address3": "",
+        "city": "Atlanta",
+        "zip_code": "30319",
+        "country": "US",
+        "state": "GA",
+        "display_address": [
+          "3901 Peachtree Rd NE",
+          "Atlanta, GA 30319"
+        ]
+      },
+      "phone": "+14045049277",
+      "display_phone": "(404) 504-9277",
+      "distance": 6262.761212973768
+    },
+    {
+      "id": "bb7-YctEx7r1Uhg_nUA1OQ",
+      "alias": "starbucks-atlanta-122",
+      "name": "Starbucks",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6FgP88CTuUmtXipV7yldLQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/starbucks-atlanta-122?adjust_creative=JaUQXhTheWUgWlegHzTEmQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JaUQXhTheWUgWlegHzTEmQ",
+      "review_count": 28,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": 33.9056095,
+        "longitude": -84.429016
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "6350 Powers Ferry Rd",
+        "address2": "",
+        "address3": null,
+        "city": "Atlanta",
+        "zip_code": "30327",
+        "country": "US",
+        "state": "GA",
+        "display_address": [
+          "6350 Powers Ferry Rd",
+          "Atlanta, GA 30327"
+        ]
+      },
+      "phone": "+14704453899",
+      "display_phone": "(470) 445-3899",
+      "distance": 6322.016009545565
+    },
+    {
+      "id": "7xlxJbP9nwgQzFrh2Nhf0A",
+      "alias": "starbucks-marietta-4",
+      "name": "Starbucks",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fS3v2R4WzV8ls1MD6Q3bWg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/starbucks-marietta-4?adjust_creative=JaUQXhTheWUgWlegHzTEmQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JaUQXhTheWUgWlegHzTEmQ",
+      "review_count": 15,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 3.0,
+      "coordinates": {
+        "latitude": 33.950061,
+        "longitude": -84.411848
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "31 A Johnson Ferry Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Marietta",
+        "zip_code": "30068",
+        "country": "US",
+        "state": "GA",
+        "display_address": [
+          "31 A Johnson Ferry Rd",
+          "Marietta, GA 30068"
+        ]
+      },
+      "phone": "+17702260087",
+      "display_phone": "(770) 226-0087",
+      "distance": 6349.606418523224
+    }
+  ],
+  "total": 442,
+  "region": {
+    "center": {
+      "longitude": -84.3609,
+      "latitude": 33.91167
+    }
+  }
+}

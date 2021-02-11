@@ -1,0 +1,40 @@
+{
+  "id": "YHGCV5G1-5xkx0iIUI2amQ",
+  "alias": "starbucks-atlanta-115",
+  "name": "Starbucks",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0hAQZjliF0LvLQGn4zj-xg/o.jpg",
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/starbucks-atlanta-115?adjust_creative=JaUQXhTheWUgWlegHzTEmQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=JaUQXhTheWUgWlegHzTEmQ",
+  "review_count": 41,
+  "categories": [
+    {
+      "alias": "coffee",
+      "title": "Coffee & Tea"
+    }
+  ],
+  "rating": 3.0,
+  "coordinates": {
+    "latitude": 33.918174,
+    "longitude": -84.350779
+  },
+  "transactions": [
+    "delivery"
+  ],
+  "price": "$",
+  "location": {
+    "address1": "6001 Peachtree Dunwoody Rd",
+    "address2": "",
+    "address3": null,
+    "city": "Atlanta",
+    "zip_code": "30328",
+    "country": "US",
+    "state": "GA",
+    "display_address": [
+      "6001 Peachtree Dunwoody Rd",
+      "Atlanta, GA 30328"
+    ]
+  },
+  "phone": "+14702791184",
+  "display_phone": "(470) 279-1184",
+  "distance": 1181.2145296926433
+}
